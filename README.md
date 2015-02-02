@@ -1,4 +1,4 @@
-# Text_Processing_Classes
+# text_process_classes
 
 These classes (so far just Text()) perform basic text prcocessing tasks, such as standardizing text to utf8 encoding, stripping punctuation, cleaning out html tags, tokenization, part-of-speech tagging, lemmatization, frequency distribution tables, etc. Many leverage NLTK but add to its functionality or package it for ease of use.
 
